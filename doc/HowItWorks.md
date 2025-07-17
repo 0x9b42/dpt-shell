@@ -84,7 +84,6 @@ public static void writeApplicationName(String inManifestFile, String outManifes
     FileProcesser.processManifestFile(inManifestFile, outManifestFile, property);
 }
 ```
-Here's a simplified translation for quick understanding:
 
 ### (2) Extracting CodeItem
 
